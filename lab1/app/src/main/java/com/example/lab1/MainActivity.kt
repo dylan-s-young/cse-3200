@@ -16,7 +16,6 @@ import com.example.lab1.ui.theme.Lab1Theme
 const val TAG_VALUE = "DSY_TAG"
 
 class MainActivity : ComponentActivity() {
-    // Create Instance
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Log.i(TAG_VALUE, "in onCreate")
