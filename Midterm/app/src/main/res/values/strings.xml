@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="clock1">Clock 1</string>
+    <string name="clock2">Clock 2</string>
+    <string name="clock3">Clock 3</string>
+</resources>
