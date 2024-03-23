@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Left Timer"
+        android:id="@+id/leftTimer"></item>
+    <item android:title="Right Timer"
+        android:id="@+id/rightTimer"></item>
+
+</menu>
