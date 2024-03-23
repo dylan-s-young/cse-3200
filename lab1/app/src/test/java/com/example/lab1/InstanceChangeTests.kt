@@ -1,4 +1,4 @@
-package com.example.lab2
+package com.example.lab1
 
 import org.junit.Test
 
@@ -9,9 +9,9 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class InstanceChangeTests {
     @Test
-    fun addition_isCorrect() {
+    fun testStartStatet() {
         assertEquals(4, 2 + 2)
     }
 }
