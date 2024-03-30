@@ -90,13 +90,13 @@ class MainActivity : AppCompatActivity() {
             Button(onClick = {
 
             }) {
-                Text("Play Radio")
+                Text("Play")
             }
 
             Button(onClick = {
 
             }) {
-                Text("Stop Radio")
+                Text("Stop")
             }
 
 
